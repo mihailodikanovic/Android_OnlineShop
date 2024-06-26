@@ -1,0 +1,4 @@
+D:/Faks/Android/OnlineShop/app/src/main/obj/local/x86_64/objs/Library/MyJni.o: \
+  D:/Faks/Android/OnlineShop/app/src/main/jni/MyJni.cpp \
+  D:/Faks/Android/OnlineShop/app/src/main/jni/mihailo_dikanovic_shoppinglist_JNIexample.h
+D:/Faks/Android/OnlineShop/app/src/main/jni/mihailo_dikanovic_shoppinglist_JNIexample.h:

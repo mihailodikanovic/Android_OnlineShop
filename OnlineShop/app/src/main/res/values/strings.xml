@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Online Shop</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_register">REGISTER</string>
+    <string name="button_home">HOME</string>
+    <string name="button_menu">MENU</string>
+    <string name="button_account">ACCOUNT</string>
+    <string name="button_bag">BAG</string>
+    <string name="welcome">Welcome</string>
+    <string name="text_changePassword">Change password</string>
+    <string name="hint_currentPassword">Current password</string>
+    <string name="hint_newPassword">New password</string>
+    <string name="button_save">SAVE</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="button_password">PASSWORD</string>
+    <string name="button_end">END SESSION</string>
+    <string name="button_purchaseHistory">PURCHASE HISTORY</string>
+    <string name="button_myProfile">MY PROFILE</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_username">Username:</string>
+    <string name="text_email">Email:</string>
+    <string name="text_password">Password:</string>
+    <string name="button_add">ADD</string>
+    <string name="date">Date:</string>
+    <string name="price">Price:</string>
+    <string name="status">Status:</string>
+    <string name="prazna_lista">Lista je prazna</string>
+</resources>
